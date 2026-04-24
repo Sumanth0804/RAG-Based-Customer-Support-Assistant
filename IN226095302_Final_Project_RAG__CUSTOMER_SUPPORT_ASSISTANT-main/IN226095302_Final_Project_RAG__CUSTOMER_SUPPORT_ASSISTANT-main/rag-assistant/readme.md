@@ -44,4 +44,4 @@ The system follows a 2-node flow (Retrieve -> Process) with conditional routing.
 Success Path: Query -> Retrieve -> Process -> Response.
 Escalation Path: Query -> Retrieve -> Process (No Context) -> Human Agent.
 
-Contributor: Shreyash Naresh Raut AI & DS Student | B.Tech student at LSPGCOER affilated with DBATU 
+Contributor: Sumanth Nagireddy | B.Tech CSE Final Year student  
